@@ -13,7 +13,6 @@ def max_of_two(a, b):
         return a
     return b
 
-
 # Exercise 4
 def sum_greater_than_80(a, b, c, d):
     total = 0
