@@ -1,7 +1,4 @@
-# Python Review 1
-
-Python Review PDF:
-https://drive.google.com/file/d/1_Spi5yo7H50BZ933mYh-zUveuMAroKe4/view?usp=sharing
+# Python Exam 
 
 ---
 
@@ -9,18 +6,12 @@ https://drive.google.com/file/d/1_Spi5yo7H50BZ933mYh-zUveuMAroKe4/view?usp=shari
 
 **Problem:**
 
-Input the length and width of a rectangle. Calculate and print the area.
+Given hours, minutes, and seconds, return total seconds.
 
 **Example:**
 
-    Input: 5 3
-    Output: 15
-    
-    Input: 10 2
-    Output: 20
-    
-    Input: 7 7
-    Output: 49
+    Input: 1 2 3  
+    Output: 3723
 
 ---
 
@@ -28,73 +19,97 @@ Input the length and width of a rectangle. Calculate and print the area.
 
 **Problem:**
 
-Check if a number is positive or negative. (_A number greater than 0 is positive, less than 0 is negative, and 0 is neither._)
+Given years and months, return total months.
 
 **Example:**
 
-    Input: 5
-    Output: Positive
+    Input: 2 7  
+    Output: 31
     
-    Input: -7
-    Output: Negative
-    
-    Input: 0
-    Output: Neither
-
-
 ---
 
 ## Exercise 3
 
 **Problem:**
 
-Check if a number is divisible by 5.
+Find the larger of two integers
 
 **Example**
 
-    Input: 25
-    Output: True
+    Input: 16 14  
+    Output: 16
     
-    Input: 12
-    Output: False
-    
-    Input: 0
-    Output: True
 ---
 
 ## Exercise 4
 
 **Problem:**
 
-Input 4 numbers and check if their sum is even or odd.
+Given 4 integers, return the sum of numbers greater than 80.
 
 **Example**
 
-    Input: 1 2 3 4
-    Output: Even
+    Input: 85 75 96 69  
+    Output: 181
     
-    Input: 5 6 2 2
-    Output: Odd
-    
-    Input: 2 2 2 2
-    Output: Even
 ---
 
 ## Exercise 5
 
 **Problem:**
 
-Input a three-digit number and check if it is divisible by the sum of its digits.
+Given n, print n numbers of "IOI"
 
 **Example**
 
-    Input: 150
-    Output: True
+    Input: 4  
+    Output:
+    IOI
+    IOI
+    IOI
+    IOI
     
-    Input: 456
-    Output: False
+---
+
+## Exercise 6
+
+**Problem:**
+
+Print multiplication table of n from 1 to 10.
+
+**Example**
+
+    Input:
+    3
     
-    Input: 132
-    Output: True
+    Output:
+    3*1=3
+    3*2=6
+    3*3=9
+    3*4=12
+    3*5=15
+    3*6=18
+    3*7=21
+    3*8=24
+    3*9=27
+    3*10=30
+---
+
+## Exercise 7
+
+**Problem:**
+
+Print below pattern with given n:
+
+**Example**
+
+    Input: 5
+    Output: 
+    1
+    2 2
+    3 3 3
+    4 4 4 4
+    5 5 5 5 5
+    
 ---
 
