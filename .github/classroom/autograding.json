@@ -45,6 +45,33 @@
         "comparison": "included",
         "timeout": 5,
         "points": 1
+      },
+      {
+        "name": "exercise6",
+        "run": "pytest test_assignment.py::test6",
+        "input": "",
+        "output": "",
+        "comparison": "included",
+        "timeout": 5,
+        "points": 1
+      },
+      {
+        "name": "exercise7",
+        "run": "pytest test_assignment.py::test7",
+        "input": "",
+        "output": "",
+        "comparison": "included",
+        "timeout": 5,
+        "points": 1
+      },
+      {
+        "name": "exercise8",
+        "run": "pytest test_assignment.py::test8",
+        "input": "",
+        "output": "",
+        "comparison": "included",
+        "timeout": 5,
+        "points": 1
       }
     ]
   }
