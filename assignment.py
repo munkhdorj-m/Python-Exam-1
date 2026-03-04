@@ -1,5 +1,5 @@
 # Exercise 1
-def time_to_seconds(hours, minutes, secondst):
+def time_to_seconds(hours, minutes, seconds):
     pass
 
 # Exercise 2
