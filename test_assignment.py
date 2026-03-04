@@ -1,7 +1,10 @@
-import pytest
+import pytest,inspect
 from assignment import *
 
-
+def check_contains_loop(func):
+    source = inspect.getsource(func)
+    return "for " in source or "while " in source
+    
 @pytest.mark.parametrize("h,m,s,expected", [
     (1, 2, 3, 3723),
     (0, 0, 0, 0),
