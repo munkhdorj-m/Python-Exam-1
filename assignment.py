@@ -1,26 +1,31 @@
-# You can remove 'pass' if you written code in the function 
-
 # Exercise 1
-def rectangle_area(length, width):
-    # Write your code here
+def time_to_seconds(hours, minutes, secondst):
     pass
 
 # Exercise 2
-def check_number(num):
-    # Write your code here
+def years_months_to_months(years, months):
     pass
 
 # Exercise 3
-def is_divisible_by_5(num):
-    # Write your code here
+def max_of_two(a, b):
     pass
 
 # Exercise 4
-def sum_is_even_or_odd(a, b, c, d):
-    # Write your code here
+def sum_greater_than_80(a, b, c, d):
     pass
 
 # Exercise 5
-def divisible_by_sum_of_digits(num):
-    # Write your code here
+def print_ioi(n):
+    pass
+
+# Exercise 6
+def factorial(n):
+    pass
+
+# Exercise 7
+def multiplication_table(n):
+    pass
+
+# Exercise 8
+def print_pattern(n):
     pass
