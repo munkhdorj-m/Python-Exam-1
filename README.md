@@ -32,7 +32,7 @@ Given years and months, return total months.
 
 **Problem:**
 
-Find the larger of two integers
+Return the larger of two integers
 
 **Example**
 
