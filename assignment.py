@@ -2,7 +2,6 @@
 def time_to_seconds(hours, minutes, s):
     return hours * 3600 + minutes * 60 + s
 
-
 # Exercise 2
 def years_months_to_months(years, months):
     return years * 12 + months
