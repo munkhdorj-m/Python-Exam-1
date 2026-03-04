@@ -75,6 +75,19 @@ Given n, print n numbers of "IOI"
 
 **Problem:**
 
+Return factorial of given n.
+
+**Example**
+
+    Input: 5  
+    Output: 120
+    
+---
+
+## Exercise 7
+
+**Problem:**
+
 Print multiplication table of n from 1 to 10.
 
 **Example**
@@ -94,8 +107,7 @@ Print multiplication table of n from 1 to 10.
     3*9=27
     3*10=30
 ---
-
-## Exercise 7
+## Exercise 8
 
 **Problem:**
 
